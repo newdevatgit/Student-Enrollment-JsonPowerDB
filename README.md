@@ -57,6 +57,12 @@ demonstrates real-time database interaction using JsonPowerDB.
 
 ---
 
+## Screenshot
+
+![Student Enrollment Form Screenshot](assets\home-page.png)
+
+---
+
 ##  Sources
 - JsonPowerDB Documentation  
   https://login2explore.com/jpdb/docs.html
