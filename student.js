@@ -2,7 +2,7 @@
 const token = "90934841|-31949263465469351|90957931";
 const dbName = "SCHOOL-DB";
 const relName = "STUDENT-TABLE";
-const jpdbBaseUrl = "http://api.login2explore.com:5577";
+const jpdbBaseUrl = "https://api.login2explore.com:5577";
 
 let rec_no = 0;
 
