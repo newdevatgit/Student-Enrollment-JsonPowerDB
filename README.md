@@ -59,7 +59,7 @@ demonstrates real-time database interaction using JsonPowerDB.
 
 ## Screenshot
 
-![Student Enrollment Form Screenshot](assets\home-page.png)
+![Student Enrollment Form Screenshot](assets/home-page.png)
 
 ---
 
